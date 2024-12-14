@@ -1,5 +1,5 @@
 {
-	"geode": "4.0.0-beta.1",
+	"geode": "4.0.1",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074"
@@ -11,7 +11,8 @@
 	"description": "Adds sounds to the editor!",
 	"resources": {
 		"files": [
-			"audio/*.ogg"
+			"audio/*.ogg",
+			"audio/*.wav"
 		]
 	},
 	"links": {
